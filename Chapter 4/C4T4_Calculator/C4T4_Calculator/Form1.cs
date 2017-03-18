@@ -18,7 +18,7 @@ namespace C4T4_Calculator
             sumField.Text = "";
         }
 
-        int sum = 0;
+        float sum = 0;
         string lastClicked = ""; //The button that was clicked last
 
         private void label1_Click(object sender, EventArgs e)
@@ -94,18 +94,54 @@ namespace C4T4_Calculator
 
         private void plussButton_Click(object sender, EventArgs e)
         {
-            sum += Int32.Parse(sumField.Text);
-            sumField.Text = "";
             lastClicked = "+";
+            sum = Convert.ToInt64(sumField.Text);
+            sumField.Text = "";
         }
 
         private void sumButton_Click(object sender, EventArgs e)
         {
             if (lastClicked == "+")
             {
-                sum += Int32.Parse(sumField.Text);
+                sum += Convert.ToInt64(sumField.Text);
                 sumField.Text = sum.ToString();
             }
+            if (lastClicked == "-")
+            {
+                sum -= Convert.ToInt64(sumField.Text);
+                sumField.Text = sum.ToString();
+            }
+            if (lastClicked == "*")
+            {
+                sum *= Convert.ToInt64(sumField.Text);
+                sumField.Text = sum.ToString();
+            }
+            if (lastClicked == "/")
+            {
+                sum /= Convert.ToInt64(sumField.Text);
+                sumField.Text = sum.ToString();
+            }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            lastClicked = "-";
+            sum = Convert.ToInt64(sumField.Text);
+            sumField.Text = "";
+        }
+
+        private void multiplyButton_Click(object sender, EventArgs e)
+        {
+            lastClicked = "*";
+            sum = Convert.ToInt64(sumField.Text);
+            sumField.Text = "";
+        }
+
+        private void divideButton_Click(object sender, EventArgs e)
+        {
+            lastClicked = "/";
+            sum = Convert.ToInt64(sumField.Text);
+            sumField.Text = "";
         }
     }
 }

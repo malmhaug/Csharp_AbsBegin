@@ -42,6 +42,9 @@
             this.delButton = new System.Windows.Forms.Button();
             this.sumButton = new System.Windows.Forms.Button();
             this.plussButton = new System.Windows.Forms.Button();
+            this.minusButton = new System.Windows.Forms.Button();
+            this.multiplyButton = new System.Windows.Forms.Button();
+            this.divideButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // sumField
@@ -186,7 +189,7 @@
             // plussButton
             // 
             this.plussButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.plussButton.Location = new System.Drawing.Point(213, 134);
+            this.plussButton.Location = new System.Drawing.Point(213, 58);
             this.plussButton.Name = "plussButton";
             this.plussButton.Size = new System.Drawing.Size(61, 48);
             this.plussButton.TabIndex = 17;
@@ -194,11 +197,47 @@
             this.plussButton.UseVisualStyleBackColor = true;
             this.plussButton.Click += new System.EventHandler(this.plussButton_Click);
             // 
+            // minusButton
+            // 
+            this.minusButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.minusButton.Location = new System.Drawing.Point(213, 112);
+            this.minusButton.Name = "minusButton";
+            this.minusButton.Size = new System.Drawing.Size(61, 48);
+            this.minusButton.TabIndex = 18;
+            this.minusButton.Text = "-";
+            this.minusButton.UseVisualStyleBackColor = true;
+            this.minusButton.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // multiplyButton
+            // 
+            this.multiplyButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.multiplyButton.Location = new System.Drawing.Point(213, 166);
+            this.multiplyButton.Name = "multiplyButton";
+            this.multiplyButton.Size = new System.Drawing.Size(61, 48);
+            this.multiplyButton.TabIndex = 19;
+            this.multiplyButton.Text = "*";
+            this.multiplyButton.UseVisualStyleBackColor = true;
+            this.multiplyButton.Click += new System.EventHandler(this.multiplyButton_Click);
+            // 
+            // divideButton
+            // 
+            this.divideButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.divideButton.Location = new System.Drawing.Point(213, 220);
+            this.divideButton.Name = "divideButton";
+            this.divideButton.Size = new System.Drawing.Size(61, 48);
+            this.divideButton.TabIndex = 20;
+            this.divideButton.Text = "/";
+            this.divideButton.UseVisualStyleBackColor = true;
+            this.divideButton.Click += new System.EventHandler(this.divideButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 282);
+            this.Controls.Add(this.divideButton);
+            this.Controls.Add(this.multiplyButton);
+            this.Controls.Add(this.minusButton);
             this.Controls.Add(this.plussButton);
             this.Controls.Add(this.sumButton);
             this.Controls.Add(this.delButton);
@@ -214,7 +253,7 @@
             this.Controls.Add(this.oneButton);
             this.Controls.Add(this.sumField);
             this.Name = "Form1";
-            this.Text = "Pluss Calculator";
+            this.Text = "Simple Calculator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -236,6 +275,9 @@
         private System.Windows.Forms.Button delButton;
         private System.Windows.Forms.Button sumButton;
         private System.Windows.Forms.Button plussButton;
+        private System.Windows.Forms.Button minusButton;
+        private System.Windows.Forms.Button multiplyButton;
+        private System.Windows.Forms.Button divideButton;
     }
 }
 

@@ -1,0 +1,9 @@
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\bin\Debug\C5T1_Circle.exe.config
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\bin\Debug\C5T1_Circle.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\bin\Debug\C5T1_Circle.pdb
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.csprojResolveAssemblyReference.cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.Form1.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.Properties.Resources.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.csproj.GenerateResource.Cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T1_Circle\C5T1_Circle\obj\Debug\C5T1_Circle.pdb

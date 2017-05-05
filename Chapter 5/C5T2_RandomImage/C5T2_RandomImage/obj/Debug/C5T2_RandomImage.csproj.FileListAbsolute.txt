@@ -1,0 +1,9 @@
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\bin\Debug\C5T2_RandomImage.exe.config
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\bin\Debug\C5T2_RandomImage.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\bin\Debug\C5T2_RandomImage.pdb
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.csprojResolveAssemblyReference.cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.Form1.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.Properties.Resources.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.csproj.GenerateResource.Cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T2_RandomImage\C5T2_RandomImage\obj\Debug\C5T2_RandomImage.pdb

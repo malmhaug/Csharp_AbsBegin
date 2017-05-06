@@ -1,0 +1,9 @@
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\bin\Debug\C5T3_Christmas.exe.config
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\bin\Debug\C5T3_Christmas.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\bin\Debug\C5T3_Christmas.pdb
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.csprojResolveAssemblyReference.cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.Form1.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.Properties.Resources.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.csproj.GenerateResource.Cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T3_Christmas\C5T3_Christmas\obj\Debug\C5T3_Christmas.pdb

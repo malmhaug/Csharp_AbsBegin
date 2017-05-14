@@ -1,0 +1,9 @@
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\bin\Debug\C5T4_WordFinder_1.2.0.exe.config
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\bin\Debug\C5T4_WordFinder_1.2.0.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\bin\Debug\C5T4_WordFinder_1.2.0.pdb
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1.2.0.csprojResolveAssemblyReference.cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1._2._0.Form1.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1._2._0.Properties.Resources.resources
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1.2.0.csproj.GenerateResource.Cache
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1.2.0.exe
+C:\Users\Eier\Documents\REPO\Csharp_AbsBegin\Chapter 5\C5T4_WordFinder_1.2.0\C5T4_WordFinder_1.2.0\obj\Debug\C5T4_WordFinder_1.2.0.pdb
